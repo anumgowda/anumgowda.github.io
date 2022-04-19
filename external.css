@@ -1,0 +1,19 @@
+h3{
+    color:red;
+    font-size: 50;
+}
+/*3. class selector*/
+.sheet{
+    text-decoration:underline;
+    text-transform:uppercase;
+    color:blue;
+}
+/* id selector*/
+#google{
+    color:palevioletred;
+}
+
+h2,h3{
+    font-size:40px;
+    color:aqua;
+}

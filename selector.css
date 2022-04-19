@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head></head>
+<body></body>
+<h1> types of selector</h1>
+<h2>elements selector</h2>
+<h3>grouping selector</h3>
+<style>
+h2,h3{
+    font-size:40px;
+}
+
+
